@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AayushiChauhan12/treetor.git/static/css/main.0c716201.css",
+    "main.js": "/AayushiChauhan12/treetor.git/static/js/main.5877c64a.js",
+    "static/media/Frame 19.png": "/AayushiChauhan12/treetor.git/static/media/Frame 19.0290bb5a48c48e1b374a.png",
+    "static/media/download.png": "/AayushiChauhan12/treetor.git/static/media/download.52e6d6c5be1ea7a93af6.png",
+    "static/media/feature_2.png": "/AayushiChauhan12/treetor.git/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/AayushiChauhan12/treetor.git/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/AayushiChauhan12/treetor.git/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "static/media/Record.png": "/AayushiChauhan12/treetor.git/static/media/Record.878caa9f63d13a07d49d.png",
+    "static/media/logo.png": "/AayushiChauhan12/treetor.git/static/media/logo.68f2e9b93a6dec6e47d2.png",
+    "static/media/client.png": "/AayushiChauhan12/treetor.git/static/media/client.62ddba8e15fc1c27f831.png",
+    "index.html": "/AayushiChauhan12/treetor.git/index.html",
+    "main.0c716201.css.map": "/AayushiChauhan12/treetor.git/static/css/main.0c716201.css.map",
+    "main.5877c64a.js.map": "/AayushiChauhan12/treetor.git/static/js/main.5877c64a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c716201.css",
+    "static/js/main.5877c64a.js"
+  ]
+}
